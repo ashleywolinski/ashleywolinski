@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashleywolinski!
 - 👀 I’m interested in UX/Product Design.
 - 🌱 I’m currently learning how to use Github.
-- 💞️ I’m looking to collaborate on design projects.
+- 💞️ I’m looking to land a role in product design.
 - 📫 Say hi at hello@ashleywolinski.com
 
 Feel free to click around my repo! 
